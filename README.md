@@ -1,4 +1,22 @@
 "# group-project-group-69" 
+
+Files contains:
+- Group Project 69 Note Book Final Version.ipynb
+    The Final Version of the Note Book   
+- Untitled Folder/Bus Card Type.xlsx - Bus Card Type.csv.csv
+    Data set after some basic clean
+- Untitled Folder/BusCardType.csv
+    Orgional data set downloan from Open Data NSW transport at 13 September 2020
+- README.md
+
+
+
+
+
+
+
+
+
 Project Proposal 
 
 COVID-19 and its Impact on our Public Transportation System
